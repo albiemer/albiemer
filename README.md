@@ -1,4 +1,4 @@
-### Hi there Albiemer Porte a Programmer 👋
+<center> <h1>there Albiemer Porte a Programmer 👋</h1> </center>
 
 You can see all my works in Gitlab.. <a href="https://gitlab.com/albiemerporte"><b>My Works in GITLAB<b></a>
 
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<center>
 ![ezgif com-gif-maker](https://github.com/albiemer/albiemer/assets/36027987/36a5545b-fdb6-4490-824e-4e42c33c3923)
+</center>
