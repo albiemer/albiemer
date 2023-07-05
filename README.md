@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>
+  
 ![ezgif com-gif-maker](https://github.com/albiemer/albiemer/assets/36027987/36a5545b-fdb6-4490-824e-4e42c33c3923)
-</center>
