@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-**albiemer/albiemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,6 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![ezgif com-gif-maker](https://github.com/albiemer/albiemer/assets/36027987/36a5545b-fdb6-4490-824e-4e42c33c3923)
