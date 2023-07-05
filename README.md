@@ -1,4 +1,4 @@
-<center> <h1> Hi there Albiemer Porte a Programmer 👋</h1> </center>
+<h1> Hi there, I am Albiemer Porte a Programmer, as of now i am graduating student as computer SCience. 👋</h1>
 
 You can see all my works in Gitlab.. <a href="https://gitlab.com/albiemerporte"><b>My Works in GITLAB<b></a>
 
