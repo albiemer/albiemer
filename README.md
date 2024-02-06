@@ -1,3 +1,4 @@
+![Screenshot 2024-02-06 8 59 41 PM](https://github.com/albiemer/albiemer/assets/36027987/2ae84bcd-96b6-4807-84e6-2636e9d65791)
 <h1> Hi there, I am Albiemer Porte a Programmer, as of now i am graduating student as computer SCience. 👋</h1>
 
 You can see all my works in Gitlab.. <a href="https://gitlab.com/albiemerporte"><b>My Works in GITLAB<b></a>
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ![Screenshot 2024-02-06 8 59 41 PM](https://github.com/albiemer/albiemer/assets/36027987/2ae84bcd-96b6-4807-84e6-2636e9d65791)
+
 
 
 
