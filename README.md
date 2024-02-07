@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 https://youtu.be/7hjiAAqZmTI
 ![Screenshot 2024-02-07 9 50 58 AM](https://github.com/albiemer/albiemer/assets/36027987/6d722ce6-bf78-40bd-8bdb-dcd9c6ecfc8f)
 
-https://youtu.be/uC4ucrgQ0aE
-![Screenshot 2024-02-07 9 52 35 AM](https://github.com/albiemer/albiemer/assets/36027987/a574a2d5-fec2-4325-a8de-f79677918341)
+https://youtu.be/uC4ucrgQ0aE ![Screenshot 2024-02-07 9 52 35 AM](https://github.com/albiemer/albiemer/assets/36027987/a574a2d5-fec2-4325-a8de-f79677918341)
 
 https://youtu.be/VfZFXY59MOc
 ![Screenshot 2024-02-07 9 54 17 AM](https://github.com/albiemer/albiemer/assets/36027987/9e326111-1c6e-4652-88b4-f42da179c369)
