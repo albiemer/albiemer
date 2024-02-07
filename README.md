@@ -23,5 +23,18 @@ https://youtu.be/7hjiAAqZmTI
 https://youtu.be/uC4ucrgQ0aE
 ![Screenshot 2024-02-07 9 52 35 AM](https://github.com/albiemer/albiemer/assets/36027987/a574a2d5-fec2-4325-a8de-f79677918341)
 
+https://youtu.be/VfZFXY59MOc
+![Screenshot 2024-02-07 9 54 17 AM](https://github.com/albiemer/albiemer/assets/36027987/9e326111-1c6e-4652-88b4-f42da179c369)
+
+https://youtu.be/vV-HTJAppDE
+![Screenshot 2024-02-07 9 55 37 AM](https://github.com/albiemer/albiemer/assets/36027987/23bae969-8cf0-4d14-afab-dc5943e4b1ce)
+
+https://youtu.be/iYv4fDfAtj4
+![Screenshot 2024-02-07 9 56 43 AM](https://github.com/albiemer/albiemer/assets/36027987/a81e332a-2b45-4737-b1db-b83e7881f890)
+
+https://youtu.be/Os_NKlaj5k4
+![Screenshot 2024-02-07 9 57 47 AM](https://github.com/albiemer/albiemer/assets/36027987/9b39aad7-9f39-42f4-b8fb-7583d2268a7c)
+
+
 
 
