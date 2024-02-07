@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 https://youtu.be/7hjiAAqZmTI
 ![Screenshot 2024-02-07 9 50 58 AM](https://github.com/albiemer/albiemer/assets/36027987/6d722ce6-bf78-40bd-8bdb-dcd9c6ecfc8f)
 
-https://youtu.be/uC4ucrgQ0aE ![Screenshot 2024-02-07 9 52 35 AM](https://github.com/albiemer/albiemer/assets/36027987/a574a2d5-fec2-4325-a8de-f79677918341)
+https://youtu.be/uC4ucrgQ0aE
+![Screenshot 2024-02-07 9 52 35 AM](https://github.com/albiemer/albiemer/assets/36027987/a574a2d5-fec2-4325-a8de-f79677918341)
 
 https://youtu.be/VfZFXY59MOc
 ![Screenshot 2024-02-07 9 54 17 AM](https://github.com/albiemer/albiemer/assets/36027987/9e326111-1c6e-4652-88b4-f42da179c369)
@@ -33,6 +34,14 @@ https://youtu.be/iYv4fDfAtj4
 
 https://youtu.be/Os_NKlaj5k4
 ![Screenshot 2024-02-07 9 57 47 AM](https://github.com/albiemer/albiemer/assets/36027987/9b39aad7-9f39-42f4-b8fb-7583d2268a7c)
+
+https://youtu.be/A_s5D-k6evo
+![Screenshot 2024-02-07 10 05 28 AM](https://github.com/albiemer/albiemer/assets/36027987/a640ca17-c3e7-4340-871a-e7e024fc5a4a)
+
+https://youtu.be/X4-_i1QBK5I
+![Screenshot 2024-02-07 10 06 41 AM](https://github.com/albiemer/albiemer/assets/36027987/3b6053ca-8d1d-4df3-ac6a-fa0ece3741a3)
+
+
 
 
 
