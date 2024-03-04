@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://youtu.be/S5U_600k_b4
+![thumbnail](https://github.com/albiemer/albiemer/assets/36027987/0274b2a1-9308-4493-b361-3227dc35ec7e)
+
 https://youtu.be/7hjiAAqZmTI
 ![Screenshot 2024-02-07 9 50 58 AM](https://github.com/albiemer/albiemer/assets/36027987/6d722ce6-bf78-40bd-8bdb-dcd9c6ecfc8f)
 
